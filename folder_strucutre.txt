@@ -1,0 +1,11 @@
+vaultrs/
+├── .gitignore          # target/, *.vault (never commit real vault files)
+├── README.md
+├── LICENSE
+├── Cargo.toml           # workspace root
+├── vaultrs-core/
+├── vaultrs-cli/
+├── vaultrs-server/
+├── vaultrs-sync-protocol/
+└── docs/
+    └── design.md         # move the doc I gave you in here
